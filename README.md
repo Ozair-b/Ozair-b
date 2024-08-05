@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ozair.
-- 👀 I’m interested in learning new thing every day(programming related)
+- 👀 I’m interested in learning new things every day(programming related)
 - 🌱 I’m currently learning python(completed c language)
 - 💞️ I’m looking to collaborate on ...python projects
 
